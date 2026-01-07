@@ -4,10 +4,8 @@ This repository contains a collection of manual testing projects completed as pa
 ## Project List
 
 | Project Name | Description | Tools Used |
-
 |--------------|------------|------------|
-
-| OrangeHRM- Manual Testing | Performed end-to-end manual testing of the OrangeHRM web application with focus on Login functionality, including test scenarios, test cases, bug reporting, and RTM. | Manual Testing, Excel, Chrome Devtools |
+| OrangeHRM – Manual Testing | Performed end-to-end manual testing of the OrangeHRM web application with focus on Login functionality, including test scenarios, test cases, bug reporting, and RTM. | Manual Testing, Excel, Chrome DevTools |
 
 ## Getting Started
 
@@ -36,6 +34,7 @@ To view the details of each project, click on the project name folder in this re
 Sacar Shrestha
 
 Aspiring QA Engineer
+
 
 
 
