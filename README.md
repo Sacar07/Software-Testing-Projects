@@ -29,11 +29,22 @@ To view the details of each project, click on the project name folder in this re
 * Bug Report
 * Requirement Traceability Matrix (RTM)
 
+## JIRA Usage
+
+This project was mapped into JIRA to understand real-world defect tracking and traceability.
+
+### JIRA Artifacts Created
+- Epic: OrangeHRM Login Module
+- Stories: Login functionality (valid & invalid scenarios)
+- Test Cases: Created and linked to stories
+- Bugs: Logged for failed test cases
+
 ## Author
 
 Sacar Shrestha
 
 Aspiring QA Engineer
+
 
 
 
